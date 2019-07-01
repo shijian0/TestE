@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://cdn.xnwimg.com/down/f:%7B108143AF-AE70-A19E-DBFC-C6275B611068%7D/ct:0/TestBuildDemo.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://cdn.xnwimg.com/down/f:%7BC5F5C4A7-29A2-888B-9A7C-6190EB011792%7D/ct:0/xnw_512x512.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://cdn.xnwimg.com/down/f:%7B0B667401-B760-7AE1-5CA7-CB514B5EC7DE%7D/ct:0/xnw_logo.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.xnw.xnwccp</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>So</string>
+				<key>title</key>
+				<string>So</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
